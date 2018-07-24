@@ -110,7 +110,9 @@ int main(void)
   TowerInit();
   /* Write your code here */
 
-  BLAHBLAHBLAH
+  1. BLAHBLAHBLAH
+
+  2. REAA REAA REAA REAA
 
   for (;;)
   {
